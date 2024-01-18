@@ -1,6 +1,5 @@
 ---
-title: "COSY"
-subtitle: "Advanced support for COnfigurable software SYstems"
+title: "Advanced support for COnfigurable software SYstems (COSY)"
 lang: es
 about:
   template: jolla
