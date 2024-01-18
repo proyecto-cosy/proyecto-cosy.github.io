@@ -1,0 +1,15 @@
+---
+title: "Publicaciones"
+lang: es
+---
+
+## Durante el proyecto
+
+## Previas al comienzo del proyecto
+
+1.  Oh, J., Batory, D., Heradio, R. [Finding Near-optimal Configurations in Colossal Spaces with Statistical Guarantees](https://dl.acm.org/doi/full/10.1145/3611663). ACM Transactions on Software Engineering and Methodology, 33(1), 2023, [*Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING*](http://jcr-incites.fecyt.es/).
+2.  Fernandez-Amoros, D. , Heradio, R., C. Mayr-Dorn, and A. Egyed. [Scalable Sampling of Highly- Configurable Systems: Generating Random Instances of the Linux Kernel](https://dl.acm.org/doi/abs/10.1145/3551349.3556899). In IEEE/ACM Int. Conf. on Automated Software Engineering (ASE), Oakland Center, MI, USA, 2022, [*GGS Class 2*](https://scie.lcc.uma.es/).
+3.  Heradio, R., Fernandez-Amoros, D., Galindo, J.A., Benavides, D., and Batory, D. [Uniform and scalable sampling of highly configurable systems](https://link.springer.com/article/10.1007/s10664-021-10102-5). Empirical Software Engineering, 27(2), 2022, [*Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING*](http://jcr-incites.fecyt.es/).
+4.  Heradio, R., Fernandez-Amoros, D., Galindo, J.A., and Benavides, D. [Uniform and scalable satsampling for configurable systems](https://dl.acm.org/doi/10.1145/3382025.3414951). In ACM Int. Systems and Software Product Line Conf. (SPLC), Montreal, Canada, 2020, [*GGS Class 2.*](https://scie.lcc.uma.es/)
+5.  Fernandez-Amoros, D., Heradio, R., Mayr-Dorn, C., and Egyed, A. [A Kconfig translation to logic with one-way validation system](https://dl.acm.org/doi/10.1145/3336294.3336313). In ACM Int. Systems and Software Product Line Conf. (SPLC), Paris, France, 2019, [*GGS Class 2*](https://scie.lcc.uma.es/).
+6.  Heradio, R., Fernandez-Amoros, D., Mayr-Dorn, C., and Egyed, A. [Supporting the statistical analysis of variability models](https://ieeexplore.ieee.org/document/8811977). In Int. Conf. on Software Engineering (ICSE), Montreal, Canada, 2019, [*GGS Class 1*](https://scie.lcc.uma.es/).

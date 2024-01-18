@@ -1,0 +1,14 @@
+{
+  "hash": "6fb256fb6a7b2ac69b6e1385fe9668e3",
+  "result": {
+    "markdown": "---\ntitle: \"COSY\"\nsubtitle: \"Advanced support for COnfigurable software SYstems\"\nabout:\n  template: jolla\n  image: micin-uefeder-aei.pdf\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n---\n\n\nProyecto PID2022-142043NB-I00, financiado por MCIN/AEI/10.13039/501100011033/ y por FEDER *Una manera de hacer Europa*\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

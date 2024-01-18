@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publicaciones.html#previas-al-comienzo-del-proyecto",
+    "href": "publicaciones.html#previas-al-comienzo-del-proyecto",
+    "title": "Publicaciones",
+    "section": "Previas al comienzo del proyecto",
+    "text": "Previas al comienzo del proyecto\n\nOh, J., Batory, D., Heradio, R. Finding Near-optimal Configurations in Colossal Spaces with Statistical Guarantees. ACM Transactions on Software Engineering and Methodology, 33(1), 2023, Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING.\nFernandez-Amoros, D. , Heradio, R., C. Mayr-Dorn, and A. Egyed. Scalable Sampling of Highly- Configurable Systems: Generating Random Instances of the Linux Kernel. In IEEE/ACM Int. Conf. on Automated Software Engineering (ASE), Oakland Center, MI, USA, 2022, GGS Class 2.\nHeradio, R., Fernandez-Amoros, D., Galindo, J.A., Benavides, D., and Batory, D. Uniform and scalable sampling of highly configurable systems. Empirical Software Engineering, 27(2), 2022, Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING.\nHeradio, R., Fernandez-Amoros, D., Galindo, J.A., and Benavides, D. Uniform and scalable satsampling for configurable systems. In ACM Int. Systems and Software Product Line Conf. (SPLC), Montreal, Canada, 2020, GGS Class 2.\nFernandez-Amoros, D., Heradio, R., Mayr-Dorn, C., and Egyed, A. A Kconfig translation to logic with one-way validation system. In ACM Int. Systems and Software Product Line Conf. (SPLC), Paris, France, 2019, GGS Class 2.\nHeradio, R., Fernandez-Amoros, D., Mayr-Dorn, C., and Egyed, A. Supporting the statistical analysis of variability models. In Int. Conf. on Software Engineering (ICSE), Montreal, Canada, 2019, GGS Class 1."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Quiénes somos",
+    "section": "",
+    "text": "Rubén Heradio Gil\nDavid Fernández Amorós"
+  },
+  {
+    "objectID": "about.html#investigadores-principales",
+    "href": "about.html#investigadores-principales",
+    "title": "Quiénes somos",
+    "section": "",
+    "text": "Rubén Heradio Gil\nDavid Fernández Amorós"
+  },
+  {
+    "objectID": "about.html#equipo-de-invetigación",
+    "href": "about.html#equipo-de-invetigación",
+    "title": "Quiénes somos",
+    "section": "Equipo de Invetigación",
+    "text": "Equipo de Invetigación\n\nJosé Antonio Cerrada Somolinos\nCarlos Cerrada Somolinos\nIsmael Abad Cardiel\nErnesto Aranda Escolástico"
+  },
+  {
+    "objectID": "about.html#equipo-de-trabajo",
+    "href": "about.html#equipo-de-trabajo",
+    "title": "Quiénes somos",
+    "section": "Equipo de Trabajo",
+    "text": "Equipo de Trabajo\n\nDon Batory\nAlexander Egyed\nChristoph Mayr-Dorn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "COSY",
+    "section": "",
+    "text": "Proyecto PID2022-142043NB-I00\nFinanciado por MCIN/AEI/10.13039/501100011033/ y por FEDER Una manera de hacer Europa"
+  }
+]

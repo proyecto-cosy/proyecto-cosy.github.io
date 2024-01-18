@@ -1,0 +1,28 @@
+---
+title: "Quiénes somos"
+lang: es
+---
+
+## Investigadores principales
+
+-   [Rubén Heradio Gil](https://portalcientifico.uned.es/investigadores/182966/detalle)
+
+-   [David Fernández Amorós](https://portalcientifico.uned.es/investigadores/184809/detalle)
+
+## Equipo de Invetigación
+
+-   [José Antonio Cerrada Somolinos](https://portalcientifico.uned.es/investigadores/182913/detalle)
+
+-   [Carlos Cerrada Somolinos](https://portalcientifico.uned.es/investigadores/182912/detalle)
+
+-   [Ismael Abad Cardiel](https://portalcientifico.uned.es/investigadores/182882/detalle)
+
+-   [Ernesto Aranda Escolástico](https://portalcientifico.uned.es/investigadores/184766/detalle)
+
+## Equipo de Trabajo
+
+-   [Don Batory](https://scholar.google.com/citations?user=jUzA3H8AAAAJ&hl=en)
+
+-   [Alexander Egyed](http://140.78.115.16/alexander.egyed/)
+
+-   [Christoph Mayr-Dorn](https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/christoph-mayr-dorn/)
