@@ -8,9 +8,9 @@ website:
       - href: index.qmd
         text: Inicio
       - publicaciones.qmd
-      - videos.qmd
       - software.qmd
       - datasets.qmd
+      - videos.qmd
       - about.qmd
 
 format:
