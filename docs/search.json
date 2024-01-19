@@ -7,6 +7,13 @@
     "text": "Previas al comienzo del proyecto\n\nOh, J., Batory, D., Heradio, R. Finding Near-optimal Configurations in Colossal Spaces with Statistical Guarantees. ACM Transactions on Software Engineering and Methodology, 33(1), 2023, Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING.\nFernandez-Amoros, D. , Heradio, R., C. Mayr-Dorn, and A. Egyed. Scalable Sampling of Highly- Configurable Systems: Generating Random Instances of the Linux Kernel. In IEEE/ACM Int. Conf. on Automated Software Engineering (ASE), Oakland Center, MI, USA, 2022, GGS Class 2.\nHeradio, R., Fernandez-Amoros, D., Galindo, J.A., Benavides, D., and Batory, D. Uniform and scalable sampling of highly configurable systems. Empirical Software Engineering, 27(2), 2022, Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING.\nHeradio, R., Fernandez-Amoros, D., Galindo, J.A., and Benavides, D. Uniform and scalable satsampling for configurable systems. In ACM Int. Systems and Software Product Line Conf. (SPLC), Montreal, Canada, 2020, GGS Class 2.\nFernandez-Amoros, D., Heradio, R., Mayr-Dorn, C., and Egyed, A. A Kconfig translation to logic with one-way validation system. In ACM Int. Systems and Software Product Line Conf. (SPLC), Paris, France, 2019, GGS Class 2.\nHeradio, R., Fernandez-Amoros, D., Mayr-Dorn, C., and Egyed, A. Supporting the statistical analysis of variability models. In Int. Conf. on Software Engineering (ICSE), Montreal, Canada, 2019, GGS Class 1."
   },
   {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "Dataset and source code for the paper “Finding Near-Optimal Configurations in Colossal Product Spaces with Statistical Confidence”. DOI: 10.5281/zenodo.7776627\nSAT Instances for Testing SFpC Validity and Reliability. DOI: : 10.5281/zenodo.5509947\nSAT Instances for Testing Random Samplers’ Uniformity. DOI: 10.5281/zenodo.4514919"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Quiénes somos",
