@@ -15,9 +15,9 @@ lang: es
 
 -   [Carlos Cerrada Somolinos](https://portalcientifico.uned.es/investigadores/182912/detalle)
 
--   [Ismael Abad Cardiel](https://portalcientifico.uned.es/investigadores/182882/detalle)
-
 -   [Ernesto Aranda Escolástico](https://portalcientifico.uned.es/investigadores/184766/detalle)
+
+-   [Ismael Abad Cardiel](https://portalcientifico.uned.es/investigadores/182882/detalle)
 
 ## Equipo de Trabajo
 
