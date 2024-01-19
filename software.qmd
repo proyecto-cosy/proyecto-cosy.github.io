@@ -3,3 +3,8 @@ title: "Software"
 lang: es
 ---
 
+1.  [**bdd4va**](https://github.com/rheradio/bdd4va/): BDDs for Variability Analysis
+
+2.  [**KconfigSampler**](https://github.com/davidfa71/Sampling-the-Linux-kernel): Scalable Sampling of Highly-Configurable Systems: Generating Random Instances of the Linux Kernel
+
+3.  [**SFpC**](https://github.com/rheradio/ConfSystSampling): a test for validating SAT samplers' uniformity

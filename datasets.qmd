@@ -2,3 +2,7 @@
 title: "Datasets"
 lang: es
 ---
+
+1.  Dataset and source code for the paper "Finding Near-Optimal Configurations in Colossal Product Spaces with Statistical Confidence". [DOI: 10.5281/zenodo.7776627](https://zenodo.org/records/7776627)
+2.  SAT Instances for Testing SFpC Validity and Reliability. [DOI: : 10.5281/zenodo.5509947](https://zenodo.org/records/5509947)
+3.  SAT Instances for Testing Random Samplers' Uniformity. [DOI: 10.5281/zenodo.4514919](https://zenodo.org/records/4514919)
