@@ -7,7 +7,7 @@ lang: es
 
 {{< video https://youtu.be/SxN2int6sxU title="Presentación ofrecida en TASOVA 2024" >}}
 
-\*\* Serie de videos divulgativos sobre nuestra investigación: \*\*
+**Serie de videos divulgativos sobre nuestra investigación:**
 
 {{< video https://agora.uned.es/course/view.php?id=5219&sectionid=57280#:~:text=Configuraci%C3%B3n%20del%20Kernel%20de%20Linux title="Configuración del Kernel de Linux" >}}
 
