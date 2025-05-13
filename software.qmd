@@ -3,8 +3,10 @@ title: "Software"
 lang: es
 ---
 
-1.  [**bdd4va**](https://github.com/rheradio/bdd4va/): BDDs for Variability Analysis
+1.  [**randconfig+**](https://doi.org/10.5281/zenodo.14339883): A sampler for Kconfig-based systems, including, the Linux Kernel, axtls, barebox-x86, buildroot, busybox, coreboot, embtoolkit, etaos-avr, fiasco, freetz, halm, klipper, mplayer, openbios-x86, rnk-arm, seabios, swupdate, toybox, u-boot, uClibc-ng, and xelix.
 
-2.  [**KconfigSampler**](https://github.com/davidfa71/Sampling-the-Linux-kernel): Scalable Sampling of Highly-Configurable Systems: Generating Random Instances of the Linux Kernel
+2.  [**bdd4va**](https://github.com/rheradio/bdd4va/): BDDs for Variability Analysis
 
-3.  [**SFpC**](https://github.com/rheradio/ConfSystSampling): a test for validating SAT samplers' uniformity
+3.  [**KconfigSampler**](https://github.com/davidfa71/Sampling-the-Linux-kernel): Scalable Sampling of Highly-Configurable Systems: Generating Random Instances of the Linux Kernel
+
+4.  [**SFpC**](https://github.com/rheradio/ConfSystSampling): a test for validating SAT samplers' uniformity

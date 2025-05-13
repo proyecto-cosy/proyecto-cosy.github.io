@@ -3,6 +3,8 @@ title: "Datasets"
 lang: es
 ---
 
-1.  Dataset and source code for the paper "Finding Near-Optimal Configurations in Colossal Product Spaces with Statistical Confidence". [DOI: 10.5281/zenodo.7776627](https://zenodo.org/records/7776627)
-2.  SAT Instances for Testing SFpC Validity and Reliability. [DOI: : 10.5281/zenodo.5509947](https://zenodo.org/records/5509947)
-3.  SAT Instances for Testing Random Samplers' Uniformity. [DOI: 10.5281/zenodo.4514919](https://zenodo.org/records/4514919)
+1.  30 random samples of 1,000 configurations for Kconfig-based systems, including, the Linux Kernel, axtls, barebox-x86, buildroot, busybox, coreboot, embtoolkit, etaos-avr, fiasco, freetz, halm, klipper, mplayer, openbios-x86, rnk-arm, seabios, swupdate, toybox, u-boot, uClibc-ng, and xelix. [DOI: 10.5281/zenodo.14204174](https://doi.org/10.5281/zenodo.14204174)
+2.  10 random samples of 1,000 configurations for 10 versions of the Linux Kernel: 2.6.0, 3.9.4, 4.4.302, 4.10.1, 4.19.311, 5.4.273, 5.10.214, 5.15.153, 6.1.10, and 6.8.4. [DOI:10.5281/zenodo.11030416](https://zenodo.org/records/11030416)
+3.  Dataset and source code for the paper "Finding Near-Optimal Configurations in Colossal Product Spaces with Statistical Confidence". [DOI: 10.5281/zenodo.7776627](https://zenodo.org/records/7776627)
+4.  SAT Instances for Testing SFpC Validity and Reliability. [DOI: : 10.5281/zenodo.5509947](https://zenodo.org/records/5509947)
+5.  SAT Instances for Testing Random Samplers' Uniformity. [DOI: 10.5281/zenodo.4514919](https://zenodo.org/records/4514919)

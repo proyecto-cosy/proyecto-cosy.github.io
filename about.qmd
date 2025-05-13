@@ -26,3 +26,5 @@ lang: es
 -   [Alexander Egyed](http://140.78.115.16/alexander.egyed/)
 
 -   [Christoph Mayr-Dorn](https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/christoph-mayr-dorn/)
+
+-   [Luis Cambelo Gutiérrez](https://orcid.org/0009-0004-8160-1365)
