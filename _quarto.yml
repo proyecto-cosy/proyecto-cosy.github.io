@@ -14,7 +14,7 @@ website:
       - about.qmd
 format:
   html:
-    theme: litera
+    theme: lumen
     toc: true
     embed-resources: true
 execute:
