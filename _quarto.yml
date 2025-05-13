@@ -16,5 +16,6 @@ format:
   html:
     theme: yeti
     toc: true
+    embed-resources: true
 execute:
   freeze: auto
