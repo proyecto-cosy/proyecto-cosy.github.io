@@ -3,7 +3,18 @@ title: "Videos"
 lang: es
 ---
 
-{{< video https://youtu.be/SxN2int6sxU 
-  title="Presentación ofrecida en TASOVA 2024"
->}}
+**Presentación ofrecida en TASOVA-PLUS 2024:**
 
+{{< video https://youtu.be/SxN2int6sxU title="Presentación ofrecida en TASOVA 2024" >}}
+
+\*\* Serie de videos divulgativos sobre nuestra investigación: \*\*
+
+{{< video https://agora.uned.es/course/view.php?id=5219&sectionid=57280#:~:text=Configuraci%C3%B3n%20del%20Kernel%20de%20Linux title="Configuración del Kernel de Linux" >}}
+
+{{< video https://agora.uned.es/course/view.php?id=5219&sectionid=57280#:~:text=Procesamiento%20de%20modelos%20de%20variabilidad%20complejos%20traduci%C3%A9ndolos%20f%C3%B3mulas%20l%C3%B3gicas%3A%20los%20problemas%20SAT%20y%20%23SAT title="Procesamiento de modelos de variabilidad complejos traduciéndolos fómulas lógicas: los problemas SAT y #SAT" >}}
+
+{{< video https://agora.uned.es/course/view.php?id=5219&sectionid=57280#:~:text=Detecci%C3%B3n%20de%20C%C3%B3digo%20Muerto%20con%20Tecnolog%C3%ADa%20SAT title="Detección de Código Muerto con Tecnología SAT" >}}
+
+{{< video https://canal.uned.es/poddium/video/65f8723ea35b62356c52e182 title="Corrección de Modelos de Variabilidad" >}}
+
+{{< video https://agora.uned.es/course/view.php?id=5219&sectionid=57280#:~:text=Muestreo%20Aleatorio%20de%20Modelos%20de%20Variabilidad%20Muestreo%20Aleatorio%20de%20Modelos%20de%20Variabilidad title="Muestreo Aleatorio de Modelos de Variabilidad Muestreo Aleatorio de Modelos de Variabilidad" >}}
