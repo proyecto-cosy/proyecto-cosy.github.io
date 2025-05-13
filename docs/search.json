@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "Presentación ofrecida en TASOVA-PLUS 2024:\n\nSerie de videos divulgativos sobre nuestra investigación:"
+  },
+  {
+    "objectID": "publicaciones.html",
+    "href": "publicaciones.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Fernandez-Amoros, D., Heradio, R., Horcas Aguilera, J.M., Galindo, J.A., Benavides, D., Fuentes, L. Pragmatic Random Sampling of the Linux Kernel: Enhancing the Randomness and Correctness of the conf Tool. In ACM International Systems and Software Product Line Conference (SPLC), 2024, CORE B.\nFernandez-Amoros, D., Heradio, R., Horcas Aguilera, J.M., Galindo, J.A., Benavides, D., Fuentes, L. Pragmatic Random Sampling of Kconfig-Based Systems: A Unified Approach. Journal of Systems and Software, 2025, Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING"
+  },
+  {
+    "objectID": "publicaciones.html#durante-el-proyecto",
+    "href": "publicaciones.html#durante-el-proyecto",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Fernandez-Amoros, D., Heradio, R., Horcas Aguilera, J.M., Galindo, J.A., Benavides, D., Fuentes, L. Pragmatic Random Sampling of the Linux Kernel: Enhancing the Randomness and Correctness of the conf Tool. In ACM International Systems and Software Product Line Conference (SPLC), 2024, CORE B.\nFernandez-Amoros, D., Heradio, R., Horcas Aguilera, J.M., Galindo, J.A., Benavides, D., Fuentes, L. Pragmatic Random Sampling of Kconfig-Based Systems: A Unified Approach. Journal of Systems and Software, 2025, Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING"
+  },
+  {
     "objectID": "publicaciones.html#previas-al-comienzo-del-proyecto",
     "href": "publicaciones.html#previas-al-comienzo-del-proyecto",
     "title": "Publicaciones",
@@ -11,7 +32,7 @@
     "href": "datasets.html",
     "title": "Datasets",
     "section": "",
-    "text": "Dataset and source code for the paper “Finding Near-Optimal Configurations in Colossal Product Spaces with Statistical Confidence”. DOI: 10.5281/zenodo.7776627\nSAT Instances for Testing SFpC Validity and Reliability. DOI: : 10.5281/zenodo.5509947\nSAT Instances for Testing Random Samplers’ Uniformity. DOI: 10.5281/zenodo.4514919"
+    "text": "30 random samples of 1,000 configurations for Kconfig-based systems, including, the Linux Kernel, axtls, barebox-x86, buildroot, busybox, coreboot, embtoolkit, etaos-avr, fiasco, freetz, halm, klipper, mplayer, openbios-x86, rnk-arm, seabios, swupdate, toybox, u-boot, uClibc-ng, and xelix. DOI: 10.5281/zenodo.14204174\n10 random samples of 1,000 configurations for 10 versions of the Linux Kernel: 2.6.0, 3.9.4, 4.4.302, 4.10.1, 4.19.311, 5.4.273, 5.10.214, 5.15.153, 6.1.10, and 6.8.4. DOI:10.5281/zenodo.11030416\nDataset and source code for the paper “Finding Near-Optimal Configurations in Colossal Product Spaces with Statistical Confidence”. DOI: 10.5281/zenodo.7776627\nSAT Instances for Testing SFpC Validity and Reliability. DOI: : 10.5281/zenodo.5509947\nSAT Instances for Testing Random Samplers’ Uniformity. DOI: 10.5281/zenodo.4514919"
   },
   {
     "objectID": "about.html",
@@ -39,7 +60,7 @@
     "href": "about.html#equipo-de-trabajo",
     "title": "Quiénes somos",
     "section": "Equipo de Trabajo",
-    "text": "Equipo de Trabajo\n\nDon Batory\nAlexander Egyed\nChristoph Mayr-Dorn"
+    "text": "Equipo de Trabajo\n\nDon Batory\nAlexander Egyed\nChristoph Mayr-Dorn\nLuis Cambelo Gutiérrez"
   },
   {
     "objectID": "index.html",
@@ -53,6 +74,6 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "bdd4va: BDDs for Variability Analysis\nKconfigSampler: Scalable Sampling of Highly-Configurable Systems: Generating Random Instances of the Linux Kernel\nSFpC: a test for validating SAT samplers’ uniformity"
+    "text": "randconfig+: A sampler for Kconfig-based systems, including, the Linux Kernel, axtls, barebox-x86, buildroot, busybox, coreboot, embtoolkit, etaos-avr, fiasco, freetz, halm, klipper, mplayer, openbios-x86, rnk-arm, seabios, swupdate, toybox, u-boot, uClibc-ng, and xelix.\nbdd4va: BDDs for Variability Analysis\nKconfigSampler: Scalable Sampling of Highly-Configurable Systems: Generating Random Instances of the Linux Kernel\nSFpC: a test for validating SAT samplers’ uniformity"
   }
 ]
