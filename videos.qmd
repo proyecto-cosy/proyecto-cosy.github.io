@@ -3,11 +3,11 @@ title: "Videos"
 lang: es
 ---
 
-**Presentación ofrecida en TASOVA-PLUS 2024:**
+## Presentación ofrecida en TASOVA-PLUS 2024:
 
 {{< video https://youtu.be/SxN2int6sxU title="Presentación ofrecida en TASOVA 2024" >}}
 
-**Serie de videos divulgativos sobre nuestra investigación:**
+## Serie de videos divulgativos sobre nuestra investigación:
 
 {{< video https://youtu.be/GiE2WTwUfm4 title="Configuración del Kernel de Linux" >}}
 

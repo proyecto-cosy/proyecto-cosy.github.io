@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "COSY"
+  title: "COSy"
   navbar:
     left:
       - href: index.qmd
@@ -12,12 +12,7 @@ website:
       - datasets.qmd
       - videos.qmd
       - about.qmd
-
 format:
   html:
-    theme: darkly
-    css: styles.css
+    theme: lux
     toc: true
-
-editor: visual
-
