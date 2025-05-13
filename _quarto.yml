@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "COSy"
+  title: "COSY"
   navbar:
     left:
       - href: index.qmd
@@ -14,7 +14,7 @@ website:
       - about.qmd
 format:
   html:
-    theme: lux
+    theme: yeti
     toc: true
 execute:
   freeze: auto
