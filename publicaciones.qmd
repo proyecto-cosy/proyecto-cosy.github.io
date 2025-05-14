@@ -7,6 +7,7 @@ lang: es
 
 1.  Fernandez-Amoros, D., Heradio, R., Horcas Aguilera, J.M., Galindo, J.A., Benavides, D., Fuentes, L. [Pragmatic Random Sampling of the Linux Kernel: Enhancing the Randomness and Correctness of the conf Tool](https://dl.acm.org/doi/abs/10.1145/3646548.3672586). In ACM International Systems and Software Product Line Conference (SPLC), 2024, [*CORE B*](https://portal.core.edu.au/conf-ranks/).
 2.  Fernandez-Amoros, D., Heradio, R., Horcas Aguilera, J.M., Galindo, J.A., Benavides, D., Fuentes, L. [Pragmatic Random Sampling of Kconfig-Based Systems: A Unified Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149686). Journal of Systems and Software, 2025, [*Q1 in cat. COMPUTER SCIENCE, SOFTWARE ENGINEERING*](http://jcr-incites.fecyt.es/)
+3.  Heradio, R. [Presentación (*Journal First*) del artículo: Finding Near-Optimal Configurations in Colossal Spaces with Statistical Guarantees](https://biblioteca.sistedes.es/entities/resumen/88bd0487-a295-4ba7-b73b-0ad205e01482). Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2024) .
 
 ## Previas al comienzo del proyecto
 
