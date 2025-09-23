@@ -1,0 +1,15 @@
+{
+  "hash": "eb7d16171901104ff9a1a8c6ee3dcf8c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Podcasts\"\nlang: es\n---\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhtml_tag_audio <- function(file, type = c(\"wav\")) {\n  type <- match.arg(type)\n  htmltools::tags$audio(\n    controls = \"\",\n    htmltools::tags$source(\n      src = file,\n      type = glue::glue(\"audio/{type}\", type = type)\n    )\n  )\n}\n```\n:::\n\n\nLos podcasts se han generados con [NotebookLM](https://notebooklm.google/) y han sido revisados por los IPs de este proyecto.\n\n-   [Resumen del artículo Pragmatic Random Sampling of Kconfig-Based Systems: A Unified Approach, publicado en Journal of Systems and Software en 2025.](html_tag_audio(\"./podcasts/randconfigplus_podcast.mp4\")\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

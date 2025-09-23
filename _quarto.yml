@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: "COSY"
   navbar:
@@ -11,6 +12,7 @@ website:
       - software.qmd
       - datasets.qmd
       - videos.qmd
+      - podcasts.qmd
       - about.qmd
 format:
   html:
@@ -19,3 +21,5 @@ format:
     embed-resources: true
 execute:
   freeze: auto
+resources: 
+    - "Sound/mylocalsoundfile.mp3"

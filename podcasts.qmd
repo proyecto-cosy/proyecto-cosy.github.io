@@ -1,0 +1,10 @@
+---
+title: "Podcasts"
+lang: es
+---
+
+Los podcasts se han generados con [NotebookLM](https://notebooklm.google/) y han sido revisados por los IPs de este proyecto.
+
+## Resumen del artículo [Pragmatic Random Sampling of Kconfig-Based Systems: A Unified Approach](https://doi.org/10.1016/j.jss.2025.112577), publicado en Journal of Systems and Software en 2025:
+
+{{< audio  file="podcasts/randconfigplus_podcast.mp4" title="Resumen del artículo Pragmatic Random Sampling of Kconfig-Based Systems: A Unified Approach" >}}
