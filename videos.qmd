@@ -3,6 +3,10 @@ title: "Vídeos"
 lang: es
 ---
 
+## Presentación ofrecida en [MadSESE Oct. 2025](https://gregoriorobles.github.io/MadSESE/202510.html):
+
+{{< video https://youtu.be/lMNQjWCU870 title="Conflict and dependency graphs from highly configurable software systems" >}}
+
 ## Presentación ofrecida en TASOVA-PLUS 2024:
 
 {{< video https://youtu.be/SxN2int6sxU title="Presentación ofrecida en TASOVA 2024" >}}

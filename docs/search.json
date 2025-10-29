@@ -89,5 +89,12 @@
     "title": "Software",
     "section": "",
     "text": "randconfig+: A sampler for Kconfig-based systems, including, the Linux Kernel, axtls, barebox-x86, buildroot, busybox, coreboot, embtoolkit, etaos-avr, fiasco, freetz, halm, klipper, mplayer, openbios-x86, rnk-arm, seabios, swupdate, toybox, u-boot, uClibc-ng, and xelix.\nbdd4va: BDDs for Variability Analysis\nKconfigSampler: Scalable Sampling of Highly-Configurable Systems: Generating Random Instances of the Linux Kernel\nSFpC: a test for validating SAT samplers’ uniformity"
+  },
+  {
+    "objectID": "videos.html#presentación-ofrecida-en-tasova-plus-2024",
+    "href": "videos.html#presentación-ofrecida-en-tasova-plus-2024",
+    "title": "Vídeos",
+    "section": "Presentación ofrecida en TASOVA-PLUS 2024:",
+    "text": "Presentación ofrecida en TASOVA-PLUS 2024:"
   }
 ]
